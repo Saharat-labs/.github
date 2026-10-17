@@ -2,6 +2,8 @@
 
 AI agents, tools, and experiments.
 
+🌐 **Website:** https://saharat-labs.github.io/
+
 ## Projects
 
 - **[pydroid](https://github.com/Saharat-labs/pydroid)** — a browser-based Python REPL powered by Pyodide
@@ -13,4 +15,5 @@ AI agents, tools, and experiments.
 
 ## Links
 
+- 🌐 [Website](https://saharat-labs.github.io/)
 - Maintainer: [@saharatyokthuan](https://github.com/saharatyokthuan)
