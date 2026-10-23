@@ -1,4 +1,4 @@
-# Saharat Labs
+# Araynah.
 
 AI agents, tools, and experiments.
 
